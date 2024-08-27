@@ -1,0 +1,21 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    
+    <groupId>commons-lang</groupId>
+    <artifactId>commons-lang</artifactId>
+    <version>3.8.1</version>
+    <packaging>jar</packaging>
+    
+    <name>Commons Lang</name>
+    <description>Commons Lang is a library from the Apache Commons project, which provides utilities for the java.lang API.</description>
+    <url>https://commons.apache.org/proper/commons-lang/</url>
+    
+    <licenses>
+        <license>
+            <name>Apache License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+</project>
