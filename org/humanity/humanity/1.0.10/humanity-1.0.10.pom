@@ -3,19 +3,21 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.humanity</groupId>
+    <groupId>org.primefaces.themes</groupId>
     <artifactId>humanity</artifactId>
     <version>1.0.10</version>
     <packaging>jar</packaging>
 
-    <name>humanity</name>
-    <description>Humanity Theme</description>
-    <url>https://example.com/humanity</url>
+    <name>Humanity Theme</name>
+    <description>Humanity Theme for PrimeFaces</description>
+    <url>https://repository.primefaces.org/</url>
 
     <licenses>
         <license>
             <name>The Apache License, Version 2.0</name>
             <url>https://www.apache.org/licenses/LICENSE-2.0.txt</url>
+            <distribution>repo</distribution>
+            <comments>Licensed under the Apache License, Version 2.0</comments>
         </license>
     </licenses>
 </project>
