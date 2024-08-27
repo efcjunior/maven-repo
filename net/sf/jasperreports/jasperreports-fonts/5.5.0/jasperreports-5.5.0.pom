@@ -6,6 +6,7 @@
     <groupId>net.sf.jasperreports</groupId>
     <artifactId>jasperreports-fonts</artifactId>
     <version>5.5.0</version>
+    <packaging>jar</packaging>
 
     <name>JasperReports Fonts</name>
     <description>Font files used by JasperReports</description>
