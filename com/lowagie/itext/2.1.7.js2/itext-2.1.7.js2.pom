@@ -9,14 +9,5 @@
     <packaging>jar</packaging>
 
     <name>iText</name>
-    <description>Open-source library that allows you to generate PDF files on the fly</description>
-    <url>http://itextpdf.com/</url>
-
-    <licenses>
-        <license>
-            <name>Mozilla Public License Version 1.1</name>
-            <url>https://opensource.org/licenses/MPL-1.1</url>
-            <distribution>repo</distribution>
-        </license>
-    </licenses>
+    <description>iText PDF library</description>
 </project>
